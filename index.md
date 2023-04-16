@@ -13,7 +13,7 @@ enddate: 2023-05-09
 instructor: ["Dr. Jannetta Steyn", "David Herbert"] 
 helper: ["Ilina Moitra"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
-collaborative_notes:  
+collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-05-09-NCL 
 eventbrite:           
 ---
 
