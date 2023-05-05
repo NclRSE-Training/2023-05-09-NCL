@@ -10,7 +10,7 @@ humandate: "May 09, 2023"
 humantime: "09:00 - 17:00 UTC"    
 startdate: 2023-05-09
 enddate: 2023-05-09
-instructor: ["Dr. Jannetta Steyn", "David Herbert"] 
+instructor: ["Dr. Jannetta Steyn", "Imre Draskovits"] 
 helper: ["Ilina Moitra"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
 collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-05-09-NCL 
